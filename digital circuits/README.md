@@ -1,42 +1,21 @@
-# Welcome to Assembly MIPS programming and Computer Architecture
-Computer architecture exists for a better understanding of its device, with its fundamental properties being studied in depth through an Assembler. MIPS is the architecture of choice this repo for handling Assembly.
+# Welcome to Digital Circuits
+Digital circuits are a fundamental part of understanding computer architecture. In this folder all the basic explanation of this area will be displayed. We will try to explain the function of the BIT, its conversions to other types of bases and an odyssey of information about OR, NOT, AND gates and their derivatives.
 
 
-## About
-<img src = "https://user-images.githubusercontent.com/91018438/218788149-767e938e-2479-4cbe-b4c6-4f16a36623b1.png" alt = "Cover" width="320" align="right" hspace="10" vspace="5" style="border: 1px solid black;">
-
-This repository will deal with the handling of MIPS Assembly language and presentations of understanding the architecture of a computer based on the book "Computer Organization and Design: The Hardware/Software Interface", by John Hennessy and David A Patterson. Below are some topics of the work and what will be covered:
-
-* How is communication between hardware and software possible?
-* Brief introduction and code examples for other modern architectures like ARM, AVR, RISC-V.
-* The language of a computer.
-* Assembly MIPS.
-
-```asm
-.data 
-	texto: .asciiz "Hello, world!"
-.text
-	li $v0, 4
-	la $a0, texto
-	syscall 
-```
-
-##  Learning MIPS Assembly
-The work by Hennessy and Patterson seeks to introduce MIPS Assembly as an architecture for handling assembler.
-This architecture is divided into instructions, logical operations of the language for carrying out commands. The table below demonstrates some of them.
+* UNITY 1: **Numbering systems** 
+    * 1.1 Decimal, binary, octal, hexadecimal systems
+    * 1.2 Conversion between bases
+    * 1.3 Negative numbers representation
+* UNITY 2: **Boolean algebra**    
+	* 2.1 Logic gates
+	* 2.2 Logic gates to boolean
+	* 2.2 Equacions whit logic gates
+	
 
 
-
-<img src = "https://user-images.githubusercontent.com/91018438/218798829-926b605a-05c3-41eb-9b62-8f4bff5c3800.png" alt = "Cover" width="210" align="left" hspace="10" vspace="5" style="border: 0.8px solid black;">
-
-| Instructions| What he does | type |
-|----------------|-------|------------|
-| lw |  Loads the value of a variable into a register | reading |
-| lb | Loads the value of a bite in variable into a register | reading |
-| li | Register value in a variable| reading |
-| sw |  Copy value to a variable or a register | written |
-| sb | Copy the lowest byte ina register | written |
-
-
-
+| Basic bibliography                                         |
+| ------------------------------------------------------------ |
+| TOCCI, Ronald J.; WIDMER, Neal S.; MOSS, Gregory L. Sistemas digitais: princípios e aplicações. 11. ed. São Paulo: Pearson Prentice Hall, 2011. xx, 816 p. ISBN 9788576059226 |
+| BIGNELL, James; DONOVAN, Robert. Eletrônica digital. São Paulo: Cengage Learning, 2010. xviii, 648 p. ISBN 9788522107452 |
+| D’AMORE, Roberto. VHDL: descrição e síntese de circuitos digitais. 2. ed. Rio de Janeiro: LTC, c2012. xiii, 292 p. ISBN 9788521620549 |
 
