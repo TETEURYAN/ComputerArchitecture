@@ -37,6 +37,11 @@ This architecture is divided into instructions, logical operations of the langua
 | sw |  Copy value to a variable or a register | written |
 | sb | Copy the lowest byte ina register | written |
 
+| Basic Bibliography                                          |
+| ------------------------------------------------------------ |
+|  John L. Hennessy, David A. Patterson, Organização e Projeto de Computadores: A Interface Hardware/Software, Elsevier Brasil, 2017, ISBN 8535287949 |
+
+
 
 
 
