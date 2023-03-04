@@ -6,6 +6,7 @@ Digital circuits are a fundamental part of understanding computer architecture. 
     * 1.1 Decimal, binary, octal, hexadecimal systems
     * 1.2 Conversion between bases
     * 1.3 Negative numbers representation
+    
 * UNITY 2: **Boolean algebra**    
 	* 2.1 Logic gates
 	* 2.2 Logic gates to boolean
@@ -13,8 +14,8 @@ Digital circuits are a fundamental part of understanding computer architecture. 
 	
 * UNITY 3: **Basic Combinational Circuits ** 
 	* 3.1 Multiplexadores 
-		* 3.1.1 Circuitos Integrados Multiplexadores: 74153, 74253, 74157, 74257, 74151, 74150 e 74251 
-		* 3.1.2 Aplicações de Multiplexadores: Geração de funções booleanas, Associação, Seletor de palavras 
+		* 3.1.1 Multiplexer Integrated Circuits: 74153, 74253, 74157, 74257, 74151, 74150 e 74251 
+		* 3.1.2 Multiplexer Applications: Generating Boolean Functions, Association, Word Selector
 	* 3.2 Demultiplexadores
 		* 3.2.1 Demultiplexador: Circuitos Integrado 74155. Uso como Demultiplexador. 
 	* 3.3 Decodificadores
