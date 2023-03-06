@@ -12,7 +12,7 @@ Digital circuits are a fundamental part of understanding computer architecture. 
 	* 2.2 Logic gates to boolean
 	* 2.2 Equacions whit logic gates
 	
-* UNITY 3: **Basic Combinational Circuits ** 
+* UNITY 3: **Basic Combinational Circuits** 
 	* 3.1 Multiplexadores 
 		* 3.1.1 Multiplexer Integrated Circuits: 74153, 74253, 74157, 74257, 74151, 74150 e 74251 
 		* 3.1.2 Multiplexer Applications: Generating Boolean Functions, Association, Word Selector
