@@ -26,7 +26,13 @@ Digital circuits are a fundamental part of understanding computer architecture. 
 		* 3.3.5 Decodificadores para Sete Segmentos 
 	* 3.4 Comparadores
 		* 3.4.1 Codificador: Circuito codificador com 3 saídas 74148 	
-	
+* UNITY 4: **somadores** 
+    * 4 Circuitos Aritméticos e Códigos Especiais 
+    * 4.1  Add
+        * 4.1.1. Projeto do Somador para quatro “bits”: Somador Incompleto, Somador Completo (“Full-Adder”) 
+        * 4.1.2. Somador Paralelo 
+        * 4.1.3. Circuito Integrado – 74LS83 
+    * 4.2  Subb	
 
 
 
