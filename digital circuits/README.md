@@ -12,12 +12,12 @@ Digital circuits are a fundamental part of understanding computer architecture. 
 	* 2.2 Equacions whit logic gates
 	
 * UNITY 3: **Basic Combinational Circuits** 
-	* 3.1 Multiplexadores 
-		* 3.1.1 Multiplexer Integrated Circuits
+	* 3.1 Multiplexers 
+		* 3.1.1  Integrated Circuits
 		* 3.1.2 Multiplexer Applications: Generating Boolean Functions, Association, Word Selector
-	* 3.2 Demultiplexadores
-		* 3.2.1 Demultiplexador: Circuitos Integrado 74155. Uso como Demultiplexador. 
-	* 3.3 Decodificadores
+	* 3.2 Demultiplexers
+		* 3.2.1 Demultiplexer: Integrated circuit 
+	* 3.3 Decoders
 		* 3.3.1 Projeto de um Decodificador de 2 para 4: Circuitos Integrados 
 		* 3.3.2 Decodificador Decimal: Circuito Integrado
 		* 3.3.3 Decodificador Hexadecimal: Circuito Integrado 
