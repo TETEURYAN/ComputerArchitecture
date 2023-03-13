@@ -1,7 +1,6 @@
 # Welcome to Digital Circuits
 Digital circuits are a fundamental part of understanding computer architecture. In this folder all the basic explanation of this area will be displayed. We will try to explain the function of the BIT, its conversions to other types of bases and an odyssey of information about OR, NOT, AND gates and their derivatives.
 
-
 * UNITY 1: **Numbering systems** 
     * 1.1 Decimal, binary, octal, hexadecimal systems
     * 1.2 Conversion between bases
@@ -14,24 +13,24 @@ Digital circuits are a fundamental part of understanding computer architecture. 
 	
 * UNITY 3: **Basic Combinational Circuits** 
 	* 3.1 Multiplexadores 
-		* 3.1.1 Multiplexer Integrated Circuits: 74153, 74253, 74157, 74257, 74151, 74150 e 74251 
+		* 3.1.1 Multiplexer Integrated Circuits
 		* 3.1.2 Multiplexer Applications: Generating Boolean Functions, Association, Word Selector
 	* 3.2 Demultiplexadores
 		* 3.2.1 Demultiplexador: Circuitos Integrado 74155. Uso como Demultiplexador. 
 	* 3.3 Decodificadores
-		* 3.3.1 Projeto de um Decodificador de 2 para 4: Circuitos Integrados 74138, 74139 
-		* 3.3.2 Decodificador Decimal: Circuito Integrado 7442
-		* 3.3.3 Decodificador Hexadecimal: Circuito Integrado 74154 
+		* 3.3.1 Projeto de um Decodificador de 2 para 4: Circuitos Integrados 
+		* 3.3.2 Decodificador Decimal: Circuito Integrado
+		* 3.3.3 Decodificador Hexadecimal: Circuito Integrado 
 		* 3.3.4 Associação de Decodificadores 
 		* 3.3.5 Decodificadores para Sete Segmentos 
 	* 3.4 Comparadores
-		* 3.4.1 Codificador: Circuito codificador com 3 saídas 74148 	
+		* 3.4.1 Codificador: Circuito codificador com 3 saídas 	
 * UNITY 4: **somadores** 
     * 4 Circuitos Aritméticos e Códigos Especiais 
     * 4.1  Add
-        * 4.1.1. Projeto do Somador para quatro “bits”: Somador Incompleto, Somador Completo (“Full-Adder”) 
+        * 4.1.1. Projeto do Somador para quatro “bits”: Somador Incompleto, Somador Completo
         * 4.1.2. Somador Paralelo 
-        * 4.1.3. Circuito Integrado – 74LS83 
+        * 4.1.3. Circuito Integrado
     * 4.2  Subb	
 
 
