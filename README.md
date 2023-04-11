@@ -1,4 +1,4 @@
-# Welcome to Assembly MIPS programming and Computer Architecture
+# Welcome to Computer Architecture repository
 Computer architecture exists for a better understanding of its device, with its fundamental properties being studied in depth through an Assembler. MIPS is the architecture of choice this repo for handling Assembly.
 
 
