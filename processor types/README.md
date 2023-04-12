@@ -1,10 +1,10 @@
 
-##  Processor Types
+#  Processor Types
 
 
 In this topic we will deal with the architecture of a processor and its divisions acording this book Computer Organization and Design: The Hardware/Software Interface.
 
-### CISC Processor : Complex Instruction Set Computing
+## CISC Processor : Complex Instruction Set Computing
 Complex Instruction Set Computing is used for more complex architectures, requiring more instructions to perform a task. Its characteristics will be listed below
   - Various instruction formats and different sizes;
   - Convenient and powerful instructions;
@@ -13,7 +13,7 @@ Complex Instruction Set Computing is used for more complex architectures, requir
   - Programs take up less space in memory;
   - Flexible addressing (reg-reg, reg-mem, mem-mem);
 
-### RISC Processor : Reduced Instruction Set Computing
+## RISC Processor : Reduced Instruction Set Computing
 
 Reduced Instruction Set Computing is used for low architectures, no requiring more instructions than CISC.Its characteristics will be listed below
 
@@ -25,7 +25,7 @@ Reduced Instruction Set Computing is used for low architectures, no requiring mo
   - Simple addressing (reg-reg, memory access through instructions);
   - Examples: ARM, MIPS, Spark, PowerPC;
 
-### Datapath Unycicle Processor
+## Datapath Unycicle Processor
 
 Unicycle architectures are known to be always simple, so their applicability is low compared to other architectures. Its characteristics will be listed below
 

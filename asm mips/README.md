@@ -1,5 +1,5 @@
 
-## MIPS Assembly
+# MIPS Assembly
 The work by Hennessy and Patterson seeks to introduce MIPS Assembly as an architecture for handling assembler.
 This architecture is divided into instructions, logical operations of the language for carrying out commands. The table below demonstrates some of them.
 
