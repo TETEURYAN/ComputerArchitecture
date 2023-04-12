@@ -33,6 +33,12 @@ In this topic, we will discuss about memory types, their hierarchy and control.
 ## Cache
 Cache is a type of memory that stores temporary values of operations between the processor and hard memory.
 
+### Policies write 
+
+**Write Through:** It consists of updating the value in the cache and in the MP simultaneously.
+**Write Back:** Consists of updating the cache, but sending updates in blocks to main memory.
+
+
 ### Cache maping
 cache mapping
 
