@@ -14,7 +14,7 @@ In this topic, we will discuss about memory types, their hierarchy and control.
 
 ## Memory Principles
 
-* Temporal locality
+### Temporal locality
 - If an address is referenced, it is likely to be referenced soon.
 - If you brought a book to the table, chances are you'll need to look at it again soon.
 
@@ -22,7 +22,7 @@ In this topic, we will discuss about memory types, their hierarchy and control.
   <img src="https://user-images.githubusercontent.com/91018438/231330667-9543b8ed-6ce2-4b40-afef-b8edfcee9ce6.png" alt="animated" />
 </p>
 
-* Spatial locality
+### Spatial locality
 - If an address is referenced, it is likely that nearby addresses will be referenced soon.
 - Books on the same subject are placed together in the library to increase spatial locality.
 
